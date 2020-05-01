@@ -1,0 +1,2 @@
+cd ./Documents/ssh_test/
+sh write_log.sh
